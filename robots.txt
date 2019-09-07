@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezaimiex.milkmoon.mom/sitemap.xml
